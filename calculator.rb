@@ -2,4 +2,4 @@
 first_number = 9
 second_number = 11 
 
-sum == (first_number + second_number)
+sum = (first_number + second_number)
